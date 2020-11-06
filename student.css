@@ -1,0 +1,21 @@
+.H_student {
+  text-align : center;
+  margin-left : 400px;
+  margin-right : 400px;
+}
+.H_student h3 {
+  padding-top : 10px;
+  padding-bottom : 10px;
+  border-top : 1px gray solid;
+  border-bottom : 1px gray solid;
+}
+#student_content {
+  display : block;
+  border-bottom : 10px; gray solid;
+}
+#student_relation {
+  margin-left : 340px;
+}
+.H_student table, th, td {
+  width: 400px;
+}
